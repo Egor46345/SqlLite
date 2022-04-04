@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Справочник рейсов</string>
+    <string name="heading">Рейсы самолётов</string>
+    <string name="startRoute">Начало маршрута</string>
+    <string name="endRoute">Конец маршрута</string>
+    <string name="Date">Дата</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+</resources>
